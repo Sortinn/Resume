@@ -35,7 +35,7 @@
  - 用Swing写了华容道游戏。
 ## 我的技能
 对Web开发很感兴趣，喜欢Node.js，但是实战经验不足。熟练掌握JavaScript、HTML、CSS以及一些JS、CSS框架来搭建一个Web应用。熟练使用Java和JavaScript来开发程序。
-- 熟练使用Java、JavaScript，掌握C、C++。
+- 熟练使用Java、JavaScript，掌握C、C++，了解SQL语言、编程。
 - 熟练使用MarkDown语法。
 - 熟练使用Linux常用命令。
 - 掌握测试驱动开发：TDD。
