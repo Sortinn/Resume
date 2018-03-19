@@ -7,7 +7,7 @@
 - 电话：17629293217
 - E-mail：sortinndecar@gmail.com
 - GitHub：https://github.com/Sortinn
-- 简书：https://www.jianshu.com/u/8be6ab90d4c1
+- 个人主页：https://sortinn.com
 - 教育经历：
 2015.8~2018.3（大三在读）
 西安电子科技大学 计算机科学与技术
